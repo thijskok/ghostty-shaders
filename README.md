@@ -2,7 +2,7 @@
 
 A GLSL shader that gives your Ghostty terminal a classic CRT look, featuring:
 
-✅ Amber & Green Phosphor Glow
+✅ Amber & Green & Blue Phosphor Glow
 ✅ Soft Background Glow
 ✅ Subtle Scanlines & Flicker
 
@@ -15,7 +15,7 @@ A GLSL shader that gives your Ghostty terminal a classic CRT look, featuring:
 
 1. Locate a directory for your shaders (e.g., ~/.config/ghostty/ on a Mac)
 2. Checkout this repository or download the shaders
-3. Open your Ghostty config file
+3. Open your Ghostty configuration file
 4. Add this line (replace path with your directory):
 
 ```
@@ -28,5 +28,6 @@ custom-shader = <path>/amber-crt.glsl
 
 -	Amber CRT – Warm, vintage terminal feel.
 -	Green CRT – Classic retro monitor look.
+-	Blue CRT – Cool, electric phosphor vibe.
 
 Enjoy the nostalgia!
